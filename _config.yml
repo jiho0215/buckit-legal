@@ -1,0 +1,10 @@
+title: Buckitrek Legal
+description: Privacy Policy and Terms of Service for Buckitrek.
+theme: jekyll-theme-minimal
+permalink: /:basename
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
